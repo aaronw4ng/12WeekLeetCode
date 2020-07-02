@@ -14,7 +14,16 @@
 
 **TO READ:**
 
-**Domain Driven Design (DDD) | Bounded Context (BC) | Polyglot Persistence (PP)| Command and Query Responsibility Segregation (CQRS) | Command Query Separation (CQS) | Event-Sourcing (ES) | CAP Theorem | Eventual Consistency | Twelve-Factor App | SOLID Principles |**
+- Domain Driven Design (DDD)
+- Bounded Context (BC)
+- Polyglot Persistence (PP)
+- Command and Query Responsibility Segregation (CQRS)
+- Command Query Separation (CQS)
+- Event-Sourcing (ES)
+- CAP Theorem
+- Eventual Consistency
+- Twelve-Factor App
+- SOLID Principles
 
 **Just some things to focus on.**
 
