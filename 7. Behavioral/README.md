@@ -1,10 +1,10 @@
 # Leadership Principles - LPs - ( 1 Week )
 
-TO BE UPDATED
+###TO BE UPDATED
 
 Resume and Miscellaneous
 
-_#ADD WHATEVER YOU HAVE PUT IN RESUME_
+**ADD WHATEVER YOU HAVE PUT IN RESUME**
 
 - Algos you have mentioned
 - Project work and related references to read
