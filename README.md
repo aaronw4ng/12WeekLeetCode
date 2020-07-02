@@ -9,7 +9,7 @@
 
 **Week 6:** [Concept Problems & Math](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/3.%20Concept%20Problems%20and%20Math) 
 
-**Week 7:** [Networks](hhttps://github.com/aaronw4ng/12WeekLeetCode/tree/master/4.%20Networks) 
+**Week 7:** [Networks](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/4.%20Networks) 
 
 **Week 8:** [Operating Systems](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/5.%20OS) 
 
