@@ -1,6 +1,6 @@
 # Leadership Principles - LPs - ( 1 Week )
 
-###TO BE UPDATED
+### TO BE UPDATED
 
 Resume and Miscellaneous
 
