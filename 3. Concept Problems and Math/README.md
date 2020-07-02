@@ -1,0 +1,44 @@
+# Concepts Problems and Maths - ( 1 Week )
+
+- Matrix Operations
+- Linear Programming
+- Polynomials - DFT, FFT
+- Computational Geometry
+  - Line-segment properties
+  - Determining whether any pair of segments intersects
+  - Finding the convex hull - [Erect the Fence](https://leetcode.com/problems/erect-the-fence/), [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+  - Finding the closest pair of points - [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- GCD and LCM
+  - [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+  - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+  - [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+  - [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)
+- Prime Factorization and Divisors
+  - [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+  - [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
+- Fibonacci Numbers
+  - [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+  - [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+  - [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)
+- Catalan Numbers - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+- Modular Arithmetic
+- Euler Totient Function
+- nCr Computations
+- Set Theory
+- Factorial
+  - [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+  - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+  - [Factor Combinations](https://leetcode.com/problems/factor-combinations/)
+  - [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)
+  - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+- Prime numbers and Primality Tests
+  - [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
+  - [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+- Sieve Algorithms
+  - [Count Primes](https://leetcode.com/problems/count-primes/)
+- Divisibility and Large Numbers
+- Series
+- Number Digit
+- Triangles
+  - [Triangle](https://leetcode.com/problems/triangle/)
+  - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
