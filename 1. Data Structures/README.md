@@ -1,4 +1,4 @@
-# Data Structures - LLDs -( 1 Week )
+# Data Structures - LLDs - ( 1 Week )
 
 [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
