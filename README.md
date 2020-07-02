@@ -3,4 +3,4 @@
 - All credit goes to [user5181JE](https://leetcode.com/discuss/general-discussion/698684/interview-preparation-for-beginners-ds-algorithms-os-system-design)
 - I created this repository to consolidate the programme for personal use
 ## Table of Contents
-- [Data Structures](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/1.%20Data%20Structures) 
+1. [Data Structures](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/1.%20Data%20Structures) 
