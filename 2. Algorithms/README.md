@@ -1,6 +1,6 @@
 # Algorithms - Analysis Time and Space - ( 3 Weeks )
 ## Table of Contents
-**1.** [Sorting](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/2.%20Algorithms/1.%20Sortings) 
+**1.** [Sorting](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/2.%20Algorithms/1.%20Sorting) 
 
 **2.** [Divide and Conquer](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/2.%20Algorithms/2.%20Divide-and-Conquer) 
 
