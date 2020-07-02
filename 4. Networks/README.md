@@ -1,6 +1,6 @@
 # Networks - ( 1 Week )
 
-[Leetcode](https://leetcode.com/problemset/all/?search=network)
+[Leetcode Network Problems](https://leetcode.com/problemset/all/?search=network)
 
 - Network Topology, OSI Architecture
 - TCP/IP models
