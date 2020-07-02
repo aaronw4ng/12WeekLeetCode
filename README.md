@@ -17,3 +17,9 @@
 
 **Week 12:** [Leadership Principles & Behavioral](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/7.%20Behavioral) 
 
+## Missing Info
+- Prefix Sum
+- Backtracking algorithm
+- Union Find
+- Kruskals
+- Minimum Spanning Trees
