@@ -1,6 +1,6 @@
 # Algorithms - Analysis Time and Space - ( 3 Weeks )
 ## Table of Contents
-**1.)** [Data Structures](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/1.%20Data%20Structures) 
+**1.** [Data Structures](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/1.%20Data%20Structures) 
 
 **2.)** [Algorithms](https://github.com/aaronw4ng/12WeekLeetCode/tree/master/2.%20Algorithms) 
 
